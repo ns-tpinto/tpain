@@ -1,6 +1,6 @@
 import os, sys, marshal, glob, thread
 
-# Filename used for index files, must not contain numbers
+# Filename used for index files, must not contain numbers (Checking)
 INDEX_FILENAME = 'index'
 
 # Exception thrown when calling get() on an empty queue
